@@ -9,7 +9,6 @@ import { Header } from 'mint-ui'
 Vue.component(Header.name, Header)
 
 
-
 var vm = new Vue({
   el: '#app',
   components: {
